@@ -18,7 +18,7 @@
 	  "emulatorScreen": "",
 	  "triggerL": "background: url(); background-repeat: no-repeat; background-size:cover; background-position-y: center; background-position-x: center;",
 	  "triggerR": "background: url(); background-repeat: no-repeat; background-size:cover; background-position-y: center; background-position-x: center;",
-	  "center": "background: url(); background-repeat: no-repeat; background-size:cotain; background-position-y: center; background-position-x: center;",
+	  "center": "background: url(); background-repeat: no-repeat; background-size:contain; background-position-y: center; background-position-x: center;",
 	  "right": "background: url(); background-repeat: no-repeat; background-size:contain; background-position-y: center; background-position-x: right;",
 	  "left": "background: url(); background-repeat: no-repeat; background-size:contain; background-position-y: center; background-position-x: left;",
 	  "up": "background: url(); background-repeat: no-repeat; background-size:cover; background-position-y: center; background-position-x: center;",
