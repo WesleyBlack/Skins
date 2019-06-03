@@ -1,6 +1,6 @@
 {
   "name": "iOS Calc",
-  "logo": "https://igba.shuga.co/theme/darkMode/icon.png",
+  "logo": "https://wesleyblack.github.io/Skins/icon.jpg",
   "author": "Wesley",
   "description": "Inspired by iOS calculator.",
   "styles": [
@@ -28,8 +28,8 @@
       "fab": "color:#e0e0e0;background:#f75558!important",
       "tint": "color:#f75558;",
       "label": "color:#e0e0e0!important",
-      "triggerL": "background-color:#a5a5a5;color:white",
-      "triggerR": "background-color:#a5a5a5;color:white",
+      "triggerL": "background-color:#a5a5a5;color:black;border-radius: 50% 0 0 50% !important",
+      "triggerR": "background-color:#a5a5a5;color:black;border-radius: 0 50% 50% 0 !important",
       "center": "background-color:#333333;color:gray",
       "right": "background-color:#333333;color:gray;border-radius: 0 50% 50% 0 !important",
       "left": "background-color:#333333;color:gray;border-radius: 50% 0 0 50% !important",
