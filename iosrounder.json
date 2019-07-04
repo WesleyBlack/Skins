@@ -32,7 +32,7 @@
       "triggerR": "background-color:#a5a5a5;color:black;border-radius: 50% 0 0 50% / 100% 0 0 100% !important",
       "center": "background-color:#000000;color:gray",
       "right": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
-      "left": "background-color:#333333;color:gray;border-radius: 50% 50% 505 50% !important",
+      "left": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
       "up": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
       "down": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
       "aBtn": "background-color:#f09a37;color:white",
