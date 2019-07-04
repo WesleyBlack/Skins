@@ -45,7 +45,7 @@
       "hairlines": "background-color:#000000",
       "searchbar": "background:#000000;background-color:#000000!important;color:#e0e0e0!important",
       "caption": "color:#e0e0e0!important;opacity:.8!important",
-      "icon": "color:#737373!important",
+      "icon": "color:#ffffff!important",
       "searchbarFocus": "background:#000000!important",
       "buttonHover": "background:#b37024!important",
       "buttonFocus": "background:#b37024!important",
