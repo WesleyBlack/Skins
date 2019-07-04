@@ -10,7 +10,7 @@
       "button": "background:#f09a37",
       "navbar": "background:#000000!important",
       "header": "background:#000000!important;color:#e0e0e0!important",
-      "mdHeader": "color:#e0e0e0!important;-webkit-backdrop-filter: blur(10px)",
+      "mdHeader": "background-color: rgba(0,0,0,0.5);color:#e0e0e0!important;-webkit-backdrop-filter: blur(10px)",
       "cell": "background-color:#000000!important;color:#e0e0e0!important",
       "cellChevron": "color:#e0e0e0",
       "containerBackground": "background-color:#000000!important;color:#e0e0e0",
