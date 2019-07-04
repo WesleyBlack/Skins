@@ -1,0 +1,62 @@
+{
+  "name": "iOS Rounder",
+  "logo": "https://raw.githubusercontent.com/WesleyBlack/Skins/master/calcicon.png",
+  "author": "Wesley",
+  "description": "Inspired by iOS calculator.",
+  "styles": [
+    {
+      "iOSicon": "color:#f09a37;opacity:1",
+      "MDicon": "color:#e0e0e0;opacity:1",
+      "button": "background:#f09a37",
+      "navbar": "background:#000000!important",
+      "header": "background:#000000!important;color:#e0e0e0!important",
+      "mdHeader": "background:#000000!important;color:#e0e0e0!important",
+      "cell": "background-color:#000000!important;color:#e0e0e0!important",
+      "cellChevron": "color:#e0e0e0",
+      "containerBackground": "background-color:#000000!important;color:#e0e0e0",
+      "toolbar": "background-color:#000000;color:#e0e0e0!important",
+      "emulatorBackground": "background-image:none;background:#000000!important",
+      "gradient": "background-image:none;background:#000000!important",
+      "iOSoutOfFocus": "color:#929292;",
+      "MDoutOfFocus": "",
+      "iOSinFocus": "color:#f09a37;",
+      "MDinFocus": "",
+      "MDtoggleHead": "background:#f09a37;",
+      "MDtoggleBody": "background:rgba(240,154,55,0.5);",
+      "iOStoggleHead": "",
+      "iOStoggleBody": "background:#f09a37;",
+      "fab": "color:#e0e0e0;background:#f09a37!important",
+      "tint": "color:#f09a37;",
+      "label": "color:#e0e0e0!important",
+      "triggerL": "background-color:#a5a5a5;color:black;border-radius: 0 50% 50% 0 / 0 100% 100% 0 !important",
+      "triggerR": "background-color:#a5a5a5;color:black;border-radius: 50% 0 0 50% / 100% 0 0 100% !important",
+      "center": "background-color:#000000;color:gray",
+      "right": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
+      "left": "background-color:#333333;color:gray;border-radius: 50% 50% 505 50% !important",
+      "up": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
+      "down": "background-color:#333333;color:gray;border-radius: 50% 50% 50% 50% !important",
+      "aBtn": "background-color:#f09a37;color:white",
+      "bBtn": "background-color:#f09a37;color:white",
+      "xBtn": "background-color:#f09a37;color:white",
+      "yBtn": "background-color:#f09a37;color:white",
+      "startBtn": "background-color:#333333;color:white",
+      "select": "background-color:#333333;color:white",
+      "cellGroupTitle": "color:#6d6d72!important",
+      "hairlines": "background-color:#000000",
+      "searchbar": "background:#000000;background-color:#000000!important;color:#e0e0e0!important",
+      "caption": "color:#e0e0e0!important;opacity:.8!important",
+      "icon": "color:#ffffff!important",
+      "searchbarFocus": "background:#000000!important",
+      "buttonHover": "background:#b37024!important",
+      "buttonFocus": "background:#b37024!important",
+      "greenText": "color:#087500",
+      "blueText": "color:#f09a37",
+      "custom":[  
+          {  
+              "cyrushub":".cyrusLogo {background-image: url('https://i.imgur.com/MtPJOG1.png');margin-top: 16px; width: 161px; height: 54.1px; background-size: cover;background-position: 50%;}",
+              "casa": ".btn.btn > a, #activity-bar > div {color: #762c30!important}"
+          }
+        ]
+    }
+  ]
+}
